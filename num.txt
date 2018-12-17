@@ -1,0 +1,14 @@
+keyalgo_list:8
+algo_list:12
+sendsms_list:24
+dexclass_list:1543
+opennet_list:834
+recvnet_list:333
+sendnet_list:347
+dataleaks_list:18
+servicestart_list:322
+fileread_list:786
+filewrite_list:2508
+receiver_list:2099
+action_list:708
+tag_list:6

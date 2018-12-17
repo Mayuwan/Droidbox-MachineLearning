@@ -1,0 +1,13 @@
+sum_fileRead: 4
+sum_fileWrite: 4
+sum_opennet: 0
+sum_recvnet: 0
+sum_sendnet: 0
+sum_cryptousage: 2
+sum_dexclass: 1
+sum_recvsaction: 3
+sum_servicestart: 1
+sum_enfperm: 0
+sum_dataleaks: 0
+sum_sendsms: 0
+sum_phonecalls: 0

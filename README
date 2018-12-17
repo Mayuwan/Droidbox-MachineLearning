@@ -1,0 +1,24 @@
+1.下载Droidbox
+wget https://github.com/pjlantz/droidbox/releases/download/v4.1.1/DroidBox411RC.tar.gz
+
+2.环境配置
+https://mayuwan.github.io/2017/10/20/Droidbox-setup
+
+下载DroidBox源代码后，将image文件夹放到该工程中。
+
+3.开启虚拟机
+'''
+./startemu.sh avd_name
+'''
+
+4.使用DroidBox进行分析
+a.分析单个APK
+'''
+./droidbox.sh
+'''
+
+b.分析APK集
+'''
+./batch.sh 
+'''
+需要指定path_apk，path_script，path_txt，path_json
